@@ -28,4 +28,4 @@ Cara Kerjanya ?
 
 
 ---
-**Developed By:** 123Tool | **Identity:** SPY-E
+**Developed By :** 123Tool | **Identity :** SPY-E
